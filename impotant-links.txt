@@ -1,1 +1,2 @@
 1. Guide line and resources -> https://www.codechef.com/certification/data-structures-and-algorithms/prepare
+2. Related to syllabus -> https://www.athabascau.ca/syllabi/comp/comp272.php
