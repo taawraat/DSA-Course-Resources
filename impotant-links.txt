@@ -1,3 +1,4 @@
 1. Guide line and resources -> https://www.codechef.com/certification/data-structures-and-algorithms/prepare
 2. Related to syllabus -> https://www.athabascau.ca/syllabi/comp/comp272.php
 3. Very important resource -> https://inst.eecs.berkeley.edu/~cs61b/sp20/
+4. HackerEarth course -> https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
