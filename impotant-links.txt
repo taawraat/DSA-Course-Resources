@@ -2,3 +2,4 @@
 2. Related to syllabus -> https://www.athabascau.ca/syllabi/comp/comp272.php
 3. Very important resource -> https://inst.eecs.berkeley.edu/~cs61b/sp20/
 4. HackerEarth course -> https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
+5. MIT online open course -> https://youtube.com/playlist?list=PLkToMFwOtNHiJtcBu0piSLKnLVGOF9vaV
