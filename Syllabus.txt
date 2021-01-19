@@ -1,0 +1,27 @@
+1. Introduction to Data Structure.
+    * what is data structure?
+    * importance of data structure.
+    * applications of data structure.
+    
+2. Data types.
+    * primitive data types
+    * abstract data types
+    * user defined data types
+ 
+3. Basic Data Structures.
+    * Sorting Algorithms
+    * Array based lists
+    * stack
+    * queues
+    * linked lists
+    * Skiplists
+    * Hash Tables
+    * Recursion
+    * Binary Trees
+    * Scapegoat Trees 
+    * Red–Black Trees
+    * Heaps
+    * Graphs
+    * Binary Trie
+    
+4. Implementation of each every one of basic data structures.
